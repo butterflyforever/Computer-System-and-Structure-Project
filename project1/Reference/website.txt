@@ -1,0 +1,2 @@
+Linux内核编译及添加系统调用 http://blog.csdn.net/qvjunping/article/details/72771848
+如何在Linux 4.12内核添加系统调用 http://blog.csdn.net/qq_34911465/article/details/74840024?locationNum=5&fps=1
